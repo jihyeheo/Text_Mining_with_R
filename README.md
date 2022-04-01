@@ -6,7 +6,7 @@
 
 ### Chapter2. Sentiment analysis with tidy data [[site link]](https://blog.naver.com/soodagnu/222674461246) [[code]](https://github.com/jihyeheo/Text_Mining_with_R/blob/main/Chapter2.R) [[study]](https://github.com/jihyeheo/Text_Mining_with_R/blob/main/Chapter2study.ipynb)
 
-### Chapter2. Sentiment analysis with tidy data [[site link]]() [[code]]() [[study]](https://github.com/jihyeheo/Text_Mining_with_R/blob/main/Chapter3study.ipynb)
+### Chapter3. Analyzing word and document frequency : tf-idf [[site link]]() [[code]]() [[study]](https://github.com/jihyeheo/Text_Mining_with_R/blob/main/Chapter3study.ipynb)
 
 
 ```
