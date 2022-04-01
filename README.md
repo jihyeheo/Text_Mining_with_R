@@ -4,7 +4,10 @@
 
 ### Chapter1. the tidty text format [[site link]](https://blog.naver.com/soodagnu/222672298564) [[code]](https://github.com/jihyeheo/Text_Mining_with_R/blob/main/Chapter.1.R) [[study]](https://github.com/jihyeheo/Text_Mining_with_R/blob/main/Chapter1study.ipynb)
 
-### Chapter2. Sentiment analysis with tidy data [[site link]](https://blog.naver.com/soodagnu/222674461246) [[code]](https://github.com/jihyeheo/Text_Mining_with_R/blob/main/Chapter2.R) [[study]]()
+### Chapter2. Sentiment analysis with tidy data [[site link]](https://blog.naver.com/soodagnu/222674461246) [[code]](https://github.com/jihyeheo/Text_Mining_with_R/blob/main/Chapter2.R) [[study]](https://github.com/jihyeheo/Text_Mining_with_R/blob/main/Chapter2study.ipynb)
+
+### Chapter2. Sentiment analysis with tidy data [[site link]]() [[code]]() [[study]](https://github.com/jihyeheo/Text_Mining_with_R/blob/main/Chapter3study.ipynb)
+
 
 ```
 Reference
